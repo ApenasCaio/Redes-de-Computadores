@@ -12,7 +12,7 @@
 > Trabalho Prático — Disciplina de Redes de Computadores
 
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-concluído-brightgreen">
+  <img alt="Status" src="https://img.shields.io/badge/status-em%20andamento-yellow">
   <img alt="Valor" src="https://img.shields.io/badge/valor-1.5%20pontos-blue">
   <img alt="Universidade" src="https://img.shields.io/badge/universidade-UNIBRAS-red">
 </p>
