@@ -1,3 +1,11 @@
+# UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
+
+<p align="center">
+  <a href="https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS Logo" border="0" width="70%" /></a>
+</p>
+
+---
+
 # Configuração e Análise dos Protocolos de Roteamento Dinâmico IPv6
 ## RIPng, EIGRPv6 e OSPFv3
 
@@ -516,5 +524,7 @@ A implementação bem-sucedida valida o conhecimento em protocolos de roteamento
 - Todos os comandos foram testados em Cisco Packet Tracer
 
 ---
+
+**Repositório GitHub:** [Link do Repositório](#)
 
 **Vídeo no YouTube:** [https://www.youtube.com/watch?v=_37usCB-HjI](#)
