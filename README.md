@@ -100,7 +100,7 @@ A proposta é comparar a operação de cada protocolo no mesmo cenário.
 | **Endereçamento Base** | 2001:DB8::/32 |
 | **Links** | Seriais ponto-a-ponto (/127) |
 | **Redes Locais** | Loopbacks (/64) |
-| **Sistema Operacional** | Cisco IOS 15.1 |
+| **Cabos** | Serial DCE/DTE |
 
 #### 🔌 Topologia da Rede
 
