@@ -122,36 +122,6 @@ A proposta é comparar a operação de cada protocolo no mesmo cenário.
 | **R2** | 2001:DB8:CAFE:2::1/64 | 2001:DB8:CAFE:F::0/127 | 2001:DB8:CAFE:E::1/127 |
 | **R3** | 2001:DB8:CAFE:3::1/64 | N/A | 2001:DB8:CAFE:E::0/127 |
 
-### 📂 Estrutura do Projeto
-
-```
-trabalho/
-├── README.md                    # Este arquivo
-├── configs/                     # Configurações dos roteadores por protocolo
-│   ├── RIPng/
-│   │   ├── R1-ripng.txt
-│   │   ├── R2-ripng.txt
-│   │   └── R3-ripng.txt
-│   ├── EIGRPv6/
-│   │   ├── R1-eigrp.txt
-│   │   ├── R2-eigrp.txt
-│   │   └── R3-eigrp.txt
-│   └── OSPFv3/
-│       ├── R1-ospf.txt
-│       ├── R2-ospf.txt
-│       └── R3-ospf.txt
-├── topologias/                  # Arquivos do Cisco Packet Tracer
-│   ├── RIPng.pkt
-│   ├── EIGRPv6.pkt
-│   ├── OSPFv3.pkt
-│   └── projeto base.pkt
-├── prints/                      # Documentação visual e capturas de tela
-│   ├── RIPng/
-│   ├── EIGRPv6/
-│   └── OSPFv3/
-
-```
-
 ## 📊 Resultados e Análise
 
 ### 🔹 RIPng (Routing Information Protocol Next Generation)
@@ -385,6 +355,8 @@ show ipv6 route ospf
 ```
 trabalho/
 ├── README.md                           # Este arquivo
+├── assets/
+│   ├── unibras-logo.png
 ├── configs/                            # Arquivos de configuração (show running-conf)
 │   ├── RIPng/
 │   │   ├── R1-ripng.txt               # show running-conf do R1
