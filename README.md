@@ -442,8 +442,6 @@ trabalho/
 │       ├── OSPFv3R3- show ipv6 ospf neighbor.png
 │       ├── OSPFv3R3- show ipv6 ospf.png
 │       └── OSPFv3R3- show ipv6 route.png
-│
-└── docs/                               # Documentação adicional (se necessário)
 ```
 
 ---
