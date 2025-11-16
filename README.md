@@ -484,7 +484,7 @@ A implementação bem-sucedida valida o conhecimento em protocolos de roteamento
 
 - Aluno: [CAIO CÉSAR SILVA MENIN](https://www.linkedin.com/in/caio-menin-875026306/)
 - Orientador: Prof. [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-- Instituição: Centro Universitário - Montes Belos - UNIBRAS
+- Instituição: Centro Universitário Montes Belos - UNIBRAS
 - Data de Conclusão: 15 de novembro de 2025
 
 **Aviso Legal:** 
