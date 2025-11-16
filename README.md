@@ -149,7 +149,6 @@ trabalho/
 │   ├── RIPng/
 │   ├── EIGRPv6/
 │   └── OSPFv3/
-└── docs/                        # Documentação adicional
 
 ```
 
